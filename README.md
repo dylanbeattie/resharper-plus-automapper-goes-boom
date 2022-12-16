@@ -1,0 +1,1 @@
+# resharper-plus-automapper-goes-boom
